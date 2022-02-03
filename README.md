@@ -8,3 +8,15 @@
 <li> Consegue jogar Jokenpô com o usuário
 
 <strong>Mais novidades nas próximas atualizações!</strong>
+
+<hr>
+
+<b>Comandos do bot:</b>
+<li> start     -> Inicia o Chat Bot
+<li> criador   -> Nome do criador
+<li> github    -> Github do projeto
+<li> bye       -> Fecha o Chat Bot 
+<li> interação -> Ativa o modo interação do chat bot
+<li> search    -> Realiza pesquisa no google
+
+<b><i>ATENÇÃO:</b>O Chat Bot não irá conseguir responder a todas as mensagens que digitar, ele segue uma lista de palavras que pode receber e que pode responder!</i>
