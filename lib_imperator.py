@@ -92,7 +92,7 @@ def usuario(entrada): # A função recebe a entrada do user e processa;
     # Chamada para o modo Interação do Bot;
     elif entrada == "interacao":
         print("!Modo interacao ativado!")
-        interacao(*args, **kwargs)
+        interacao()
 
     # Pesquisa no google;
     elif entrada == "search":
